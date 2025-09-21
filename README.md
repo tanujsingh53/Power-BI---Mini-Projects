@@ -1,8 +1,6 @@
 # Power-BI---Mini-Projects
-Power BI - Mini Projects
-
-
 👩‍💼 HR Analysis – Power BI
+
 📌 Project Overview
 
 This project analyzes the HR dataset (Sample data, ~1470 employees) containing details about workforce demographics, job roles, education, income distribution, and travel patterns. The goal is to extract actionable insights that can improve employee engagement, workforce planning, and HR decision-making.
