@@ -1,5 +1,5 @@
-# Power-BI---Mini-Projects
-👩‍💼 HR Analysis – Power BI
+# 👩‍💼 HR Analysis – Power BI
+Power-BI---Mini-Projects
 
 📌 Project Overview
 
